@@ -32,3 +32,6 @@ We finished the code for the lockbox system and continued working on additional 
   <img src="https://github.com/user-attachments/assets/9f85360c-49ba-404e-a80b-1596a09b8997" alt="Description 7" height="300"/>
 </p>
 Time Spent: 15 Hours
+
+## July 14, 2025
+Final stretch! Got the sensor and LED working and mounted it to a different breadboard. The high current from the sirvo caused the circuit to stop working, so we disconnected it and are relying on the sensors to stop people from reaching for their phones. The front plate did not 3D print, so we made elements out of cardboard. We continued to test and mounted the keyswitches, LEDs and sensor.
