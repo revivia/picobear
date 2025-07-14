@@ -12,7 +12,7 @@ We made this project to reduce screen usage and improve productivity. Not only d
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/320151cf-3b94-4c48-afb5-736352519e42" alt="Description 1" height="300"/><br/>
+      <img src="https://github.com/user-attachments/assets/7ee5c229-86c2-4a3e-a6b2-7c99668ca76e" alt="Description 1" height="300"/><br/>
       <sub>Wiring Diagram</sub>
   </tr>
 </table>
@@ -23,6 +23,7 @@ x20 [Jumper Wires](https://a.co/d/7m2MJUb) \
 x1 [Tower Pro Micro Servo](https://www.pishop.us/product/sg90-180-degrees-9g-micro-servo-motor-tower-pro/) \
 x3 [Cherry MX Switches](https://www.pishop.us/product/sg90-180-degrees-9g-micro-servo-motor-tower-pro/) \
 x1 [TM1637 4 Digit 7 Segment Display](https://www.aliexpress.us/item/3256804068613221.html?) \
+
 x1 [LED strip](https://a.co/d/1G6YokX)
 x1 [Ultrasonic sensor](https://a.co/d/3tDz4aN)
 x3 Keycaps (Custom Made - 3D printable files in Production) \
