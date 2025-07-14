@@ -9,6 +9,8 @@ The hour and minutes buttons are used to set a timer, and the timer is started b
   <img src="https://github.com/user-attachments/assets/b86ef3d1-dd64-4515-8ec3-8b3db7fbba5a" alt="Description 3" height="600"/>
 </p>
 
+Watch the demo [here]()! 
+
 We made this project to reduce screen usage and improve productivity. Not only does this increase productivity by minimizing distractions, it also helps clear your mind and take effective breaks without screens.
 
 <table align="center">
