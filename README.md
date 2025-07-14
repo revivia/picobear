@@ -12,10 +12,13 @@ We made this project to reduce screen usage and improve productivity. Not only d
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/7ee5c229-86c2-4a3e-a6b2-7c99668ca76e" alt="Description 1" height="300"/><br/>
+      <img src="https://github.com/user-attachments/assets/54158be2-c6a5-48a4-a0f4-f22ca9d1d6cd" alt="Description 1" height="300"/><br/>
       <sub>Wiring Diagram</sub>
   </tr>
 </table>
+
+The case was made using 
+[Onshape](https://cad.onshape.com/documents/da1e6013c94abb4d44284d02/w/a4168b892938869d8b51b26b/e/949c48882b160e3986ef9565).
 
 ## BOM
 x1 [Raspberry Pi Pico](https://www.pishop.us/product/raspberry-pi-pico/?src=raspberrypi) \
@@ -23,6 +26,7 @@ x20 [Jumper Wires](https://a.co/d/7m2MJUb) \
 x1 [Tower Pro Micro Servo](https://www.pishop.us/product/sg90-180-degrees-9g-micro-servo-motor-tower-pro/) \
 x3 [Cherry MX Switches](https://www.pishop.us/product/sg90-180-degrees-9g-micro-servo-motor-tower-pro/) \
 x1 [TM1637 4 Digit 7 Segment Display](https://www.aliexpress.us/item/3256804068613221.html?) \
+
 
 x1 [LED strip](https://a.co/d/1G6YokX)
 x1 [Ultrasonic sensor](https://a.co/d/3tDz4aN)
