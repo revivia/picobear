@@ -1,5 +1,5 @@
 # PicoBear
-[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
+
 
 Meet PicoBear! \
 Have you ever set your own screen time just to find yourself pressing ignore every time you receive a reminder? Or have you downloaded a productivity app that locks you out of social media and find that it never helps?
